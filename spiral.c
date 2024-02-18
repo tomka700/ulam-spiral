@@ -1,9 +1,8 @@
-// nem szedem szet tobb fajlba mert az szerintem ronda
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-// Fülöp Tamás GL9AKN fuloptamas@student.elte.hu
+
 void program(int*** m, int* n, char* d, char (*r)[4]);
 // tasks
 int menu();
